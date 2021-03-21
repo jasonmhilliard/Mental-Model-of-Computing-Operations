@@ -24,7 +24,7 @@ The randomWalkTextString HTML file animates a string of text in the browser wind
 
 III. Future Improvements
 ----------
-Expansion of the JavaScript code to includ more examples of JS variable scopes.
+Expansion of the JavaScript code to includ more examples of JS variable scopes. Also, expansion of the random walk using objects instead of a string of text.
 
 IV.  License
 ----------
