@@ -15,7 +15,7 @@ II. Concept
 ----------
 The word document explains the three types of scopes when dealing with variables in JavaScrip- Global, Function and Block along with some small code examples for each that you can run in the developer tools in the browser console.
 
-The basicTypesOperators JavaScript File allows you to console.log (print out) items using the developer tools in the browser. You can copy and paste this JS code into the console and it will print out the results of the defined variables.
+The basicTypesOperators JavaScript File allows you to console.log (print out) items using the developer tools in the browser. If you press F12, you can launch the developer console. You can then copy and paste this JS code into the console and it will print out the results of the defined variables.
 
 In the animalsUsingScope JavaScript file, you can use this JS code in the developer tools in the browser to practice manipulating variables and try to return the correct animal or pet.
 
