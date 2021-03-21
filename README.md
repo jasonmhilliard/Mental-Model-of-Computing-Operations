@@ -9,6 +9,8 @@ basicTypesOperators - JavaScript File
 
 animalsUsingScope - JavaScript File
 
+randomWalkTextString - HTML File
+
 II. Concept
 ----------
 The word document explains the three types of scopes when dealing with variables in JavaScrip- Global, Function and Block along with some small code examples for each that you can run in the developer tools in the browser console.
@@ -16,6 +18,8 @@ The word document explains the three types of scopes when dealing with variables
 The basicTypesOperators JavaScript File allows you to console.log (print out) items using the developer tools in the browser. You can copy and paste this JS code into the console and it will print out the results of the defined variables.
 
 In the animalsUsingScope JavaScript file, you can use this JS code in the developer tools in the browser to practice manipulating variables and try to return the correct animal or pet.
+
+The randomWalkTextString HTML file animates a string of text in the browser window. You can manipulate the variable var msg = " " to display any string you would like and watch it do a random walk around the browser page.
 
 
 III. Future Improvements
