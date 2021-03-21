@@ -4,7 +4,9 @@ Week3: Mental Model of Computing Operations
 I. File list
 ------------
 Three Types of Variable Scopes in JavaScript- Global, Function and Block - Microsoft Word Document
+
 basicTypesOperators - JavaScript File
+
 animalsUsingScope - JavaScript File
 
 II. Concept
