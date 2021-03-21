@@ -10,12 +10,12 @@ II. Concept
 ----------
 The word document explains the three types of scopes when dealing with variables in JavaScrip- Global, Function and Block along with some small code examples for each that you can run in the developer tools in the browser console.
 
-The basiTypesOperators JavaScript File allows you to console.log items using the developer tools in the browser. You can copy and paste this JS into the console and it will print out the results. creates an object (in this case a square) and uses Javascript code in order to define an area and move the object around in that specified area within the browser window.  I have defined a variable in JavaScript (var randomColors = [ ];) and assigned a random array of colors to this variable so that the color of the object will constantly change.  To execute the code, all you have to do is drag and drop the HTML file into an empty browser window.
+The basicTypesOperators JavaScript File allows you to console.log (print out) items using the developer tools in the browser. You can copy and paste this JS code into the console and it will print out the results of the defined variables.
 
 
 III. Future Improvements
 ----------
-Expansion of the HTML and JavaScript code to produce multiple objects all moving around at the same time within the browser.
+Expansion of the JavaScript code to includ more examples of JS variable scopes.
 
 IV.  License
 ----------
